@@ -56,8 +56,6 @@
   </a>
 </p>
 
----
-
 <p align="center">
   <strong>⭐ Se curtir algum projeto, não esquece de deixar uma estrela!</strong>
 </p>
