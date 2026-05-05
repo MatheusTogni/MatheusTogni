@@ -3,7 +3,6 @@
 <p align="center">
   Desenvolvedor <strong>Web Full Stack</strong> <br/>
   • Graduado em <strong>Sistemas de Informação</strong> (Horus Faculdades - 2025) <br/>
-  • Pós-graduando em <strong>Devops & Cloud Platform Engineering</strong> (PUC Minas)
 </p>
 
 <p align="center">
