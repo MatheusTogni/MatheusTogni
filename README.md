@@ -3,10 +3,13 @@
 <p align="center">
   Desenvolvedor <strong>Web Full Stack</strong> <br/>
   • Graduado em <strong>Sistemas de Informação</strong> (Horus Faculdades - 2025) <br/>
+  • Pós-graduando em <strong>DevOps</strong> (Faculdade Líbano - 2027) <br/>
+  • Pós-graduando em <strong>Gestão na Cibersegurança Empresarial</strong> (Faculdade Líbano - 2027) <br/>
+  • Pós-graduando em <strong>Redes de Computadores e Segurança da Informação</strong> (Faculdade Líbano - 2027) <br/>
 </p>
 
 <p align="center">
-  Atualmente atuando com <strong>Node.js</strong> e <strong>Vue.js</strong> na <strong>Zagonel S.A</strong>
+Atualmente, trabalho com <strong>Node.js</strong> e <strong>Vue.js</strong> na <strong>Zagonel S.A.</strong>
 </p>
 
 <p align="center">
@@ -19,14 +22,16 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
 </p>
 
 ---
@@ -34,9 +39,11 @@
 ## 📚 Atualmente Aprendendo
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" />
 </p>
 
 ---
@@ -44,7 +51,7 @@
 ## 📫 Contatos
 
 <p align="center">
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=matheustogni64@gmail.com" target="_blank">
+  <a href="mailto:matheustogni64@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/matheus-togni-b19689229/" target="_blank">
