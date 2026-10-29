@@ -19,22 +19,16 @@
 ## 🛠️ Stack
 
 <p align="center">
-  <strong>Web</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
-  <br/><br/>
-  <strong>DevOps & Infra</strong> <sub>(em estudo)</sub><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
-  <br/><br/>
-  <strong>Android</strong> <sub>(hobby)</sub><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" />
+  <img src="https://skillicons.dev/icons?i=ts,vue,nodejs,nestjs,postgres" /><br/>
+  <sub><strong>Web</strong> · stack principal, também com Oracle</sub>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,linux" /><br/>
+  <sub><strong>DevOps & Infra</strong> · CI/CD e deploy em VPS</sub>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" /><br/>
+  <sub><strong>Android</strong> · hobby</sub>
 </p>
