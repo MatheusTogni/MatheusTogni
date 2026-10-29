@@ -9,7 +9,8 @@
 </p>
 
 <p align="center">
-Atualmente, trabalho com <strong>Node.js</strong> e <strong>Vue.js</strong> na <strong>Zagonel S.A.</strong>
+  Atualmente, trabalho com <strong>Node.js</strong> e <strong>Vue.js</strong> na <strong>Zagonel S.A.</strong> <br/>
+  Nas horas vagas, desenvolvo <strong>apps Android</strong> em Kotlin para uso próprio 📱
 </p>
 
 <p align="center">
@@ -36,10 +37,25 @@ Atualmente, trabalho com <strong>Node.js</strong> e <strong>Vue.js</strong> na <
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
+</p>
+
+---
+
+## 📱 Por hobby: apps Android
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" />
+</p>
+
+<p align="center">
+  Apps que criei para o meu dia a dia, com build e publicação automáticas via GitHub Actions: <br/>
+  🌊 <a href="https://github.com/MatheusTogni/AquaFit"><strong>Aqua Fit</strong></a> — registro de treinos de calistenia, 100% offline <br/>
+  🎙️ <a href="https://github.com/MatheusTogni/capri"><strong>Capri</strong></a> — assistente de voz com palavra de ativação offline e IA (Gemini)
 </p>
 
 ---
@@ -53,7 +69,7 @@ Atualmente, trabalho com <strong>Node.js</strong> e <strong>Vue.js</strong> na <
   <a href="https://www.linkedin.com/in/matheus-togni-b19689229/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/49999343671" target="_blank">
+  <a href="https://wa.me/5549999343671" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
