@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,linux" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,linux" /><br/>
   <sub><strong>DevOps & Infra</strong> · CI/CD e deploy em VPS</sub>
 </p>
 
