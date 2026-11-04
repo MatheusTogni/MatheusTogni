@@ -19,7 +19,7 @@
 ## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,vue,nodejs,nestjs,postgres" /><br/>
+  <img src="https://skillicons.dev/icons?i=ts,vue,nodejs,postgres" /><br/>
   <sub><strong>Web</strong> · stack principal, também com Oracle</sub>
 </p>
 
